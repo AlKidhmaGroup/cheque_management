@@ -3,7 +3,7 @@
     'version': '1.0',
     'category': 'Accounting &amp; Finance',
     'sequence': 14,
-    'author': 'Ameera.P.P',
+    'author': 'Al Kidhma Group',
     'company': 'Al Kidhma Group',
     'website': 'http://www.alkidhmagroup.com',
     'summary': '',
