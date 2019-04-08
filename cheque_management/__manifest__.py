@@ -5,6 +5,7 @@
     'sequence': 14,
     'author': 'Al Kidhma Group',
     'company': 'Al Kidhma Group',
+    'license': 'LGPL-3',
     'website': 'http://www.alkidhmagroup.com',
     'summary': '',
     'depends': ['account_invoicing','mail', 'web'],
