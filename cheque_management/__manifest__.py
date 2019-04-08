@@ -37,6 +37,7 @@
         'report/cheque_report.xml',
     ],
     'demo': [],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
     'application': True,
     'auto_install': False,
